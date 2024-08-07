@@ -21,4 +21,4 @@ Rasa - domain.yml, nlu.yml, stories.yml
 
 Streamlit - Streamlit.ipynb
 
-Dataset - Cobmined_training.json
+Dataset - Combined_training.json
