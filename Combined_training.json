@@ -1,0 +1,240 @@
+{
+    "intents": [
+        {
+            "tag": "greetings",
+            "patterns": [
+                "Hello",
+                "Hi",
+                "Hey",
+                "Good morning",
+                "Good afternoon",
+                "Good evening",
+                "Hello there!",
+                "Hiya!",
+                "Hey!",
+                "Morning!",
+                "Afternoon!",
+                "Evening!",
+                "Greetings!",
+                "What's up?",
+                "Howdy!"
+            ],
+            "responses": [
+                "Hello! How can I assist you today?",
+                "Hi there! What can I help you with?",
+                "Hey! How can I help?",
+                "Good day! What do you need help with?"
+            ]
+        },
+        {
+            "tag": "academic support",
+            "patterns": [
+                "What can you tell me about academic support?",
+                "Tell me about academic support",
+                "Give me information on academic support",
+                "What is academic support?",
+                "Explain academic support",
+                "Details on  academic support"
+            ],
+            "responses": [
+                "You're in charge of your own learning journey and it can be difficult sometimes to figure out what studying style works best for you, where you can study on campus and how to get support when you need it. Read on to find out how we are here to help you with your studies at Herts."
+            ]
+        },
+        {
+            "tag": "places to study",
+            "patterns": [
+                "What can you tell me about places to study?",
+                "Tell me about places to study",
+                "Give me information on places to study",
+                "What is places to study?",
+                "Explain places to study",
+                "Details on places to study please"
+            ],
+            "responses": [
+                "At Herts, we have a variety of places that you can study from. We haveLearning Resources Centres (LRCs) [https://ask.herts.ac.uk/learning-resources-centres]on both campuses which are open 24/7, 365 days a year and have silent study areas, breakout rooms, group areas, computers and much more for you to use. If you\u2019d like to study in one of our food outlets, visit the Art and Design Gallery Caf\u00e9 and Caf\u00e9 Rore on College Lane campus, and Caf\u00e9 Ambition and Caf\u00e9 Sport on de Havilland campus so you can work and get your caffeine fix. There are also other places across the University such as the Chapman Lounge and Hutton Hub on College Lane campus and the mezzanine and Grace Ononiwu Law Court building on de Havilland campus which have plenty of seating for you to use. View our TikTok of study spaces around campus. [https://www.tiktok.com/@uniofherts/video/7171372715234823430?_r=1&_t=8XlCqlMWi3R&dm_i=3CZ%2C84G9B%2C7FAFLN%2CX9JEK%2C1&is_from_webapp=v1&item_id=7171372715234823430]"
+            ]
+        },
+        {
+            "tag": "Learning Resources Centre (LRC) services",
+            "patterns": [
+                "What can you tell me about Learning Resources Centre (LRC) services?",
+                "Tell me about Learning Resources Centre (LRC) services",
+                "Give me information on Learning Resources Centre (LRC) services",
+                "What is Learning Resources Centre (LRC) services?",
+                "Explain Learning Resources Centre (LRC) services",
+                "Details on Learning Resources Centre (LRC) services please"
+            ],
+            "responses": [
+                "The LRCs offer both online and offline support to help you with your studies at Herts. Their services include: Library SkillUP [https://ask.herts.ac.uk/library-skillup]– available on Canvas, Library SkillUP [https://ask.herts.ac.uk/library-skillup] consists of online modules to help guide you through your time at Herts. You can learn more about referencing, academic reading techniques, how to think and write critically and much more. Study Success Hubs [https://ask.herts.ac.uk/study-success-hub]– located on the ground floor of each LRC, the Study Success Hubs [https://ask.herts.ac.uk/study-success-hub] are here to help you succeed by helping you find the best resources for your assignments, tips on how to manage your workload and more! Information Managers [https://ask.herts.ac.uk/your-information-manager]– each subject area has a dedicated Information Manager who can help you find and use the most appropriate resources for your subject."
+            ]
+        },
+        {
+            "tag": "School support",
+            "patterns": [
+                "What can you tell me about School support?",
+                "Tell me about School support",
+                "Give me information on School support",
+                "What is School support?",
+                "Explain School support",
+                "Details on School support please"
+            ],
+            "responses": [
+                "Each School has bespoke services to help you with your studies. Select your School to see how they can support you: School of Physics, Engineering and Computer Science [https://herts.instructure.com/courses/100562]– a one-stop shop for information about your studies, workshops and how to book one-to-one sessions. Hertfordshire Business School [https://t.co/Wpp9dGsojd]–access support from the Centre for Academic Skills Enhancement (CASE) to help with your studies or drop-in to one of the sessions in the LRCs. Hertfordshire Law School –contact your cohort leader, programme leader or personal tutor if you need extra support. If you need support with your wellbeing,search the School Enhancement team’s (SET) website. [https://herts.instructure.com/courses/87645] School of Social Sciences, Humanities and Education–email the Student Success and Engagement team [mailto:SHEset@herts.ac.uk]to book one-to-one or group sessions for any academic or wellbeing issues. School of Life and Medical Sciences [http://www.go.herts.ac.uk/lmsasu]– access information about how the Academic Support Unit (USU) can support you with your studies. School of Creative Arts [https://catoolkit.herts.ac.uk/]–email the academic writing support [mailto:cawritingsupport@herts.ac.uk]tutors for help with writing and planning. You can alsocontact the Student Success Officer [mailto:-b.browne2@herts.ac.uk]for coaching and mentoring support. School of Health and Social Work [http://academic-skills.health.herts.ac.uk/further-support/]– click for more information about the Student Success and Academic Skills team’s (SSAS) upcoming academic skills workshops and community events that you can join or to book a one-to-one appointment with the team."
+            ]
+        },
+        {
+            "tag": "Academic Skills",
+            "patterns": [
+                "What can you tell me about Herts Academic Skills (HAS)?",
+                "Tell me about Herts Academic Skills (HAS)",
+                "Give me information on Herts Academic Skills (HAS)",
+                "What is Herts Academic Skills (HAS)?",
+                "Explain Herts Academic Skills (HAS)",
+                "Details on Herts Academic Skills (HAS) please"
+            ],
+            "responses": [
+                "Whether you need help with your language and communication skills for university life in general or for a particular written assignment or project, the Herts Academic Skills (HAS) team can help. The HAS team are here to help you to achieve your goals as a student. We offer courses and workshops in academic writing and study skills delivered online and in person, and our highly skilled and experienced teaching team are available for consultation on your written work both online and in the Learning Resources Centres (LRCs). LRC Academic Skills One-to-One Consultations We have academic advisors in the LRCs most days who provide ongoing academic skills support. You can just drop in there to speak to one of our experts about your writing or any other element of academic skills (they are located on the orange chairs). Link to the drop-in schedule here [https://herts.instructure.com/courses/109900/pages/lrc-consultation-timetable?module_item_id=3422040]. For one-to-one online support or any other enquiry, contact the HAS team via email to access the support available:has@herts.ac.uk [mailto:has@herts.ac.uk] Contact the HAS team via email to access the support available:has@herts.ac.uk [mailto:has@herts.ac.uk]."
+            ]
+        },
+        {
+            "tag": "Herts SU support",
+            "patterns": [
+                "What can you tell me about Herts SU support?",
+                "Tell me about Herts SU support",
+                "Give me information on Herts SU support",
+                "What is Herts SU support?",
+                "Explain Herts SU support",
+                "Details on Herts SU support please"
+            ],
+            "responses": [
+                "Herts SU’s Advice and Support team [https://hertssu.com/your-support/]provides free, confidential, and impartial advice and support on a range of student issues, including those of an academic nature, such as information on academic appeals and academic misconduct through to study skills support. If you want to get in touch with the team for advice regarding your academic experience, you canbook an appointment. [https://hertssu.com/your-support/] Herts SU also runsStudy Smart [https://hertssu.com/your-support/academic-advice/study-smart/], a scheme which is designed to accommodate your unique learning preferences to make you feel more confident with your assignments, revision techniques and exams. Sessions are one-to-one tutorials where you'll be exploring new study strategies that are designed to lead to efficient and interesting ways that you can use to approach your assignments and deadlines."
+            ]
+        },
+        {
+            "tag": "disability Access",
+            "patterns": [
+                "What can you tell me about disability Access?",
+                "Tell me about disability Access",
+                "Give me information on disability Access",
+                "What is disability Access",
+                "Explain disability Access",
+                "Details on disability Access"
+            ],
+            "responses": [
+                "If you have a disability, or care for someone with a disability, you may be eligible for a Study Needs Agreement (SNA). A SNA identifies the adjustment and support that should be made for you. This could include adjustments for when you take exams (if they're part of your programme), mentoring and any specialist equipment you may need. Many students at Herts have a SNA. A SNA will help us identify how we can help and support you throughout your time at Herts.Find out more about SNAs. [https://ask.herts.ac.uk/study-needs-agreement-sna]"
+            ]
+        },
+        {
+            "tag": "Assignment extensions",
+            "patterns": [
+                "What can you tell me about Assignment extensions?",
+                "Tell me about Assignment extensions",
+                "Give me information on Assignment extensions",
+                "What is Assignment extensions?",
+                "Explain Assignment extensions",
+                "Details on Assignment extensions please"
+            ],
+            "responses": [
+                "If you’re struggling with assignment deadlines and need more time, you could apply for an extension. If you think you need an additional seven days to hand in your assessment, you couldapply for a coursework extension [https://ask.herts.ac.uk/coursework-extensions]. You must apply for an extension before you submit your work. If you think you can’t submit your work by the deadline due to unexpected circumstances outside of your control, you couldsubmit an exceptional circumstances request. [https://ask.herts.ac.uk/exceptional-circumstances]In the first instance, please talk to your personal tutor, programme leader or cohort leader as they will be able to help and advise you. You must submit your exceptional circumstances request before you submit your work. If you are unsure or need more information, please talk to your personal tutor, programme leader or cohort leader."
+            ]
+        },
+        {
+            "tag": "appeal",
+            "patterns": [
+                "What can you tell me about appeal?",
+                "Tell me about appeal",
+                "Give me information on appeal",
+                "What is appeal?",
+                "Explain appeal",
+                "Details on appeal please"
+            ],
+            "responses": [
+                "An academic appeal is a request from a student to the Dean of their School to review a decision made by the Board of Examiners about an assessment decision. If you want tomake an appeal [https://ask.herts.ac.uk/academic-appeals-requests-for-the-review-of-assessment-decisions], you must request a review of your results within 10 working days of their publication. You can also contact your programme leader or cohort leader, or Herts SU’s Advice and Support centre for guidance."
+            ]
+        },
+        {
+            "tag": "wellbeing",
+            "patterns": [
+                "What can you tell me about wellbeing and mental health support?",
+                "Tell me about wellbeing and mental health support",
+                "Give me information on wellbeing and mental health support",
+                "What is wellbeing and mental health support?",
+                "Explain wellbeing and mental health support",
+                "Details on wellbeing and mental health support please"
+            ],
+            "responses": [
+                "If your studies are affecting your mental health and wellbeing then pleasecontact our Student Wellbeing team [https://ask.herts.ac.uk/student-wellbeing]for support. You can alsocall our free 24/7 wellbeing helpline [https://ask.herts.ac.uk/student-wellbeing-24-hour-helpline]ran by Health Assured whenever you need to. You can also talk to staff in your School if you’re struggling."
+            ]
+        },
+        {
+            "tag": "University External Examiners",
+            "patterns": [
+                "What can you tell me about University External Examiners?",
+                "Tell me about University External Examiners",
+                "Give me information on University External Examiners",
+                "What is University External Examiners?",
+                "Explain University External Examiners",
+                "Details on University External Examiners please"
+            ],
+            "responses": [
+                "The role of the External Examiner In the UK Higher Education system, Universities are responsible for the academic standards of the awards that they offer, and for the quality of the education they provide to enable students to meet those standards. The role of the external examiner is an essential part of the University’s quality assurance processes. They essentially externally ‘audit’ the programmes that they are appointed to, in terms of the attainment of academic standards and the quality of the education. The University of Hertfordshire appoints external examiners mainly from other Universities, but also from industry and/or the professions. They are qualified and experienced in the subject, have an understanding of the academic standards required for the award and are also independent of the University of Hertfordshire. As such, they are able to provide carefully considered advice on the academic standards of the programmes and/or modules to which they have been appointed, and can offer advice on good practice and how to enhance the quality of those programmes/modules. They are also able to offer an informed view of how standards compare with the same or similar awards at other UK Universities of which they have experience. It is important to note that whilst external examiners are full members of the Boards of Examiners to which they are appointed, the decisions of the Board are the collective, consensus views of all members of the Board. Another important feature of external examining in the UK is the provision of annual written reports to the University, based on what they have observed of the institution's assessment processes and the sample of student work that they have seen.  These reports provide invaluable independent feedback to the University at module and/or programme level. The University of Hertfordshire recognises the importance of the role of students in the management of academic standards and quality. External examiners' reports are therefore made available to student representatives, as part of the programme monitoring process. If you are not a student representative and would like to request a copy of the External Examiners’ reports relating to your programme, then please emailaqo@herts.ac.uk [mailto:aqo@herts.ac.uk], stating your ID number, the full title of your programme and your current year/level. A list of external examiners, by subject area, is also available viaaqo@herts.ac.uk [mailto:aqo@herts.ac.uk]. Please note that contacting external examiners regarding any aspect of your programme of study is prohibited. The University has appropriate internal mechanisms in place if you wish to raise a concern using the complaints or appeals procedures, as appropriate (links below): Student complaints procedure [https://ask.herts.ac.uk/making-a-complaint] Student appeals procedure [https://ask.herts.ac.uk/academic-appeals-requests-for-the-review-of-assessment-decisions]"
+            ]
+        },
+        {
+            "tag": "Artificial intelligence AI tools",
+            "patterns": [
+                "What can you tell me about Artificial intelligence AI tools?",
+                "Tell me about Artificial intelligence AI tools",
+                "Give me information on Artificial intelligence AI tools",
+                "What is Artificial intelligence AI tools?",
+                "Explain Artificial intelligence AI tools",
+                "Details on  Artificial intelligence AI tools"
+            ],
+            "responses": [
+                "Information about the University's policy on the use of artificial intelligence tools. Artificial intelligence tools (AI) have had lots of coverage in the news recently including how they can be used in workplaces and universities. You may have heard of tools such as Chat GPT, DALLE-2, Co-Pilot, and Google Bard although there are many more available for different purposes. When it comes to your course, inappropriate use of these tools can negatively impact your learning as well as affecting your own confidence in your qualification and ability. While such tools may seem like time-savers, their potential and limitations are still not fully explored. So far, we know that some materials/information may be out of date or incorrect, and some of the information may be fictitious or contain false references and quotes. We're also aware that since AI models are trained on the data that they are exposed to, this can result in biases. So, responses or information you pull out of such tools may reflect these biases and demonstrate discriminatory attitudes and beliefs."
+            ]
+        },
+        {
+            "tag": "Our stance on the use of AI tools",
+            "patterns": [
+                "What can you tell me about Our stance on the use of AI tools?",
+                "Tell me about Our stance on the use of AI tools",
+                "Give me information on Our stance on the use of AI tools",
+                "What is Our stance on the use of AI tools?",
+                "Explain Our stance on the use of AI tools",
+                "Details on Our stance on the use of AI tools please"
+            ],
+            "responses": [
+                "The University's academic integrity policy (UPR AS14 Appendix III) [https://www.herts.ac.uk/__data/assets/pdf_file/0007/237625/AS14-Apx3-Academic-Misconduct-v17.0.pdf]sets out our stance on plagiarism including fake referencing which can often be the case with AI tools. Therefore, it is crucial thatyou do not use AI toolsto generate an assessment and submit it as your own work; to do so will constitute academic misconduct."
+            ]
+        },
+        {
+            "tag": "When could I use an AI tool?",
+            "patterns": [
+                "What can you tell me about When could I use an AI tool??",
+                "Tell me about When could I use an AI tool?",
+                "Give me information on When could I use an AI tool?",
+                "What is When could I use an AI tool??",
+                "Explain When could I use an AI tool?",
+                "Details on When could I use an AI tool? please"
+            ],
+            "responses": [
+                "The only occasions where you may use AI tools in your assessment is if you have explicit permission from your tutor in your assessment brief. Your assessment brief will include information on how to declare any use of such tools, and you can speak to your tutor for guidance. If you do not reference your use, then this will constitute academic misconduct. Our current University policy on academic misconduct adequately covers the misuse of such tools, but we are updating them to be clearer on the matter. Unauthorised use of artificially generated material (AI) in researching or presenting material for an assessment is an academic misconduct offence if you use AI tools in producing your assessment unless the use of AI tools is expressly permitted. However, even if expressly permitted, where you do not declare that you have used an artificial intelligence tool(s) in the production of your assessment, or you are dishonest about the extent to which such tools have been used, you will have committed academic misconduct."
+            ]
+        },
+        {
+            "tag": "Future of AI tools",
+            "patterns": [
+                "What can you tell me about Future of AI tools?",
+                "Tell me about Future of AI tools",
+                "Give me information on Future of AI tools",
+                "What is Future of AI tools?",
+                "Explain Future of AI tools",
+                "Details on Future of AI tools please"
+            ],
+            "responses": [
+                "As the world of AI tools develops, Herts will continue to discuss its potential and limitations and review our policies. The University's Graduate Attributes expect our students to be ethical and evidence-based in their work, and therefore any future permitted use will be in line with our academic integrity principles set out above. If you have questions about how this might affect your assessments, please speak to your module leader, programme leader or personal tutor."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,200 @@
+version: "3.1"
+
+nlu:
+  - intent: greetings
+    examples: |
+      - Hello
+      - Hi
+      - Hey
+      - Good morning
+      - Good afternoon
+      - Good evening
+      - Hello there!
+      - Hiya!
+      - Hey!
+      - Morning!
+      - Afternoon!
+      - Evening!
+
+  - intent: general_academic_support
+    examples: |
+      - What academic support is available?
+      - Tell me about academic support.
+      - How can I get help with my studies?
+      - Where can I find academic support?
+      - What academic help is offered?
+      - Who can assist me with my studies?
+
+  - intent: study_places
+    examples: |
+      - Where can I study on campus?
+      - Tell me about study places.
+      - Where are the study areas?
+      - Are there quiet study areas on campus?
+      - Where are the group study rooms?
+      - Can you tell me about the study zones?
+
+  - intent: lrc_services
+    examples: |
+      - What services do the LRCs offer?
+      - Tell me about LRC services.
+      - What can I get help with at the LRC?
+      - What can I do at the LRC?
+      - What facilities do LRCs provide?
+      - How can the LRCs help me?
+      - What is Library SkillUP?
+      - Where are the Study Success Hubs?
+      - Who are the Information Managers?
+
+  - intent: school_support
+    examples: |
+      - How can I get support from my school?
+      - Tell me about school support.
+      - What support is available for my school?
+      - What support does my school offer?
+      - How can I get help from my school?
+      - What resources are available at my school?
+
+  - intent: academic_skills_support
+    examples: |
+      - How can I improve my academic skills?
+      - Tell me about academic skills support.
+      - What is the Herts Academic Skills team?
+      - How can I develop my academic skills?
+      - What academic skills support is there?
+      - Who can help me with academic skills?
+      - How can I get help with academic writing?
+      - Where can I find study skills workshops?
+      - Can I get one-to-one academic advice?
+
+  - intent: herts_su_support
+    examples: |
+      - What support does Herts SU provide?
+      - Tell me about Herts SU support.
+      - How can I get help from Herts SU?
+      - What services does Herts SU offer?
+      - How can Herts SU assist me?
+      - What help can I get from Herts SU?
+      - How can I book an appointment with Herts SU?
+      - What is the Study Smart scheme?
+      - How can I improve my study skills with Herts SU?
+
+  - intent: disability_support
+    examples: |
+      - How can I get support for my disability?
+      - Tell me about disability support.
+      - What is a Study Needs Agreement?
+      - What disability support is available?
+      - How can I get help for my disability?
+      - Who can assist me with my disability?
+      - What is a SNA?
+      - How can I get adjustments for exams?
+      - What support is there for students with disabilities?
+
+  - intent: assignment_extensions
+    examples: |
+      - How can I apply for an assignment extension?
+      - Tell me about assignment extensions.
+      - What do I do if I need more time for my assignment?
+      - What is the process for assignment extensions?
+      - How do I request more time for an assignment?
+      - Can I extend my assignment deadline?
+      - What are exceptional circumstances?
+      - How can I apply for exceptional circumstances?
+      - Who should I talk to about assignment extensions?
+
+  - intent: appeals
+    examples: |
+      - How can I make an appeal?
+      - Tell me about appeals.
+      - What is the process for making an appeal?
+      - How do I submit an appeal?
+      - What is the appeals procedure?
+      - Who can help me with an appeal?
+      - How do I request a review of my results?
+      - What is the deadline for making an appeal?
+      - Who should I contact for appeal guidance?
+
+  - intent: wellbeing_support
+    examples: |
+      - What support is available for wellbeing and mental health?
+      - Tell me about wellbeing support.
+      - How can I get mental health support?
+      - What mental health support is available?
+      - How can I get help for my wellbeing?
+      - Who can assist me with mental health issues?
+      - How can I contact the Student Wellbeing team?
+      - What is the 24/7 wellbeing helpline?
+      - Who can I talk to about my mental health?
+
+  - intent: external_examiners
+    examples: |
+      - What is the role of external examiners?
+      - Tell me about external examiners.
+      - What do external examiners do?
+      - Who are external examiners?
+      - How do external examiners contribute?
+      - What is the function of external examiners?
+      - How are external examiners appointed?
+      - Can students contact external examiners?
+      - How do external examiners ensure quality?
+
+  - intent: artificial_intelligence_ai_tools
+    examples: |
+      - What can you tell me about Artificial intelligence AI tools?
+      - Tell me about Artificial intelligence AI tools
+      - Give me information on Artificial intelligence AI tools
+      - What is Artificial intelligence AI tools?
+      - Explain Artificial intelligence AI tools
+      - Details on Artificial intelligence AI tools
+
+  - intent: our_stance_on_ai_tools
+    examples: |
+      - What can you tell me about Our stance on the use of AI tools?
+      - Tell me about Our stance on the use of AI tools
+      - Give me information on Our stance on the use of AI tools
+      - What is Our stance on the use of AI tools?
+      - Explain Our stance on the use of AI tools
+      - Details on Our stance on the use of AI tools please
+
+  - intent: when_to_use_ai_tool
+    examples: |
+      - What can you tell me about When could I use an AI tool?
+      - Tell me about When could I use an AI tool
+      - Give me information on When could I use an AI tool
+      - What is When could I use an AI tool?
+      - Explain When could I use an AI tool
+      - Details on When could I use an AI tool please
+
+  - intent: future_of_ai_tools
+    examples: |
+      - What can you tell me about Future of AI tools?
+      - Tell me about Future of AI tools
+      - Give me information on Future of AI tools
+      - What is Future of AI tools?
+      - Explain Future of AI tools
+      - Details on Future of AI tools please    
+
+  - intent: bot_challenge
+    examples: |
+      - Are you a bot?
+      - What are you?
+      - Are you real?
+      - Are you human?
+      - Are you a chatbot?
+      - What kind of bot are you?
+      - Can you prove you're not a robot?
+
+  - intent: goodbye
+    examples: |
+      - Goodbye
+      - Bye
+      - See you later
+      - Take care
+      - Farewell
+      - Bye bye
+      - See you!
+      - Catch you later!
+      - Have a good day!
+      - Take it easy!
+      - So long!

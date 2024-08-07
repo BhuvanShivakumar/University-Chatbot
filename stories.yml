@@ -1,0 +1,83 @@
+version: "3.1"
+
+stories:
+  
+  - story: greet the user
+    steps:
+      - intent: greetings
+      - action: utter_greetings
+
+  - story: provide general academic support
+    steps:
+      - intent: general_academic_support
+      - action: utter_general_academic_support
+
+  - story: provide study places information
+    steps:
+      - intent: study_places
+      - action: utter_study_places
+
+  - story: provide LRC services information
+    steps:
+      - intent: lrc_services
+      - action: utter_lrc_services
+
+  - story: provide school support information
+    steps:
+      - intent: school_support
+      - action: utter_school_support
+
+  - story: provide academic skills support information
+    steps:
+      - intent: academic_skills_support
+      - action: utter_academic_skills_support
+
+  - story: provide Herts SU support information
+    steps:
+      - intent: herts_su_support
+      - action: utter_herts_su_support
+
+  - story: provide disability support information
+    steps:
+      - intent: disability_support
+      - action: utter_disability_support
+
+  - story: provide assignment extensions information
+    steps:
+      - intent: assignment_extensions
+      - action: utter_assignment_extensions
+
+  - story: provide appeals information
+    steps:
+      - intent: appeals
+      - action: utter_appeals
+
+  - story: provide wellbeing support information
+    steps:
+      - intent: wellbeing_support
+      - action: utter_wellbeing_support
+
+  - story: provide external examiners information
+    steps:
+      - intent: external_examiners
+      - action: utter_external_examiners
+  
+  - story: provide information on AI tools
+    steps:
+      - intent: artificial_intelligence_ai_tools
+      - action: utter_artificial_intelligence_ai_tools
+
+  - story: provide stance on AI tools
+    steps:
+      - intent: our_stance_on_ai_tools
+      - action: utter_our_stance_on_ai_tools
+
+  - story: provide information on when to use AI tools
+    steps:
+      - intent: when_to_use_ai_tool
+      - action: utter_when_to_use_ai_tool
+
+  - story: provide information on the future of AI tools
+    steps:
+      - intent: future_of_ai_tools
+      - action: utter_future_of_ai_tools
